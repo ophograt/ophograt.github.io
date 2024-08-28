@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ophograt.github.io/sitemap.html.gz
+Sitemap: https://ophograt.github.io/app/sitemap.html.gz
+Sitemap: https://ophograt.github.io/assets/sitemap.html.gz
+Sitemap: https://ophograt.github.io/css/sitemap.html.gz
+Sitemap: https://ophograt.github.io/includes/sitemap.html.gz
+Sitemap: https://ophograt.github.io/item/sitemap.html.gz
+Sitemap: https://ophograt.github.io/src/sitemap.html.gz
